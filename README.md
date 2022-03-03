@@ -5,7 +5,7 @@ Node Js is used for Backend.
 
 In this web app user can login with his/her name and can chat to the user who are present in chat room.
 
-![](ychat/public/ychatimage/Screenshot 2022-03-03 182406.png)
+![alt text]https://github.com/sahnavin123/Ychat/blob/master/ychat/public/ychatimage/Screenshot%202022-03-03%20182406.png
 
 
 
