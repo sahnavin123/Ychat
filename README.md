@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+This is a web chat site. The front end of this website is design in Reacts Js
+Node Js is used for Backend.
+
+In this web app user can login with his/her name and can chat to the user who are present in chat room.
+
+![](ychat/public/ychatimage/Screenshot 2022-03-03 182406.png)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
